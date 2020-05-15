@@ -1,8 +1,14 @@
 # Wan's Seira QuizTime
+
 Seira Hayakawa Quiz
 
 - Q: 高中选修的是世界史还是日本史
 - A: 世界史（extra knowledge：理科）
+
+- Q: 花式吹樱
+- A: 国宝颜面，睡颜宝石
+
+[!樱吹早川上线](./resource/seira-saku.jpg)
 
 > 美少女战士相关
 
