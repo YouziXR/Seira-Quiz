@@ -8,7 +8,7 @@ Seira Hayakawa Quiz
 - Q: 花式吹樱
 - A: 国宝颜面，睡颜宝石
 
-[!樱吹早川上线](https://github.com/YouziXR/Seira-Quiz/blob/master/resource/seira-saku.jpg?raw=true)
+![樱吹早川上线](https://github.com/YouziXR/Seira-Quiz/blob/master/resource/seira-saku.jpg?raw=true)
 
 > 美少女战士相关
 
